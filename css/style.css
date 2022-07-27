@@ -1,3 +1,22 @@
 body{
     background-color: burlywood;
 }
+
+.container{
+    background-color: beige;
+    width: 45vw;
+    padding: 40px;
+    margin: auto;
+}
+
+
+#birth_year{
+font-size: 25px;
+}
+
+#result{
+    text-align: center;
+    font-size: 32px;
+    color: blueviolet;
+    margin-top: 15px;
+}
